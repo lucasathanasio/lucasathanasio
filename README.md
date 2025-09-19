@@ -14,7 +14,7 @@
   </h2>
 
   <p>
-    🚀 Desenvolvedor Front-End que cria soluções web com <strong>HTML, CSS, JavaScript, Bootstrap, Python, MySQL</strong> e <strong>PHP</strong>.  
+    Desenvolvedor Front-End que cria soluções web com <strong>HTML, CSS, JavaScript, Bootstrap, Python, MySQL</strong> e <strong>PHP</strong>.  
     Atualmente estou estudando <strong>React</strong> e <strong>Node</strong>.
   </p>
 </div>
