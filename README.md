@@ -10,12 +10,12 @@
 <div align="left">
   <h2>
     <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Developer.gif" width="40px" alt="developer"/> 
-    Desenvolvedor Front-End
+    Sobre mim
   </h2>
 
   <p>
-    Desenvolvedor Front-End que cria soluções web com <strong>HTML, CSS, JavaScript, Bootstrap, Python, MySQL</strong> e <strong>PHP</strong>.  
-    Atualmente estou estudando <strong>React</strong> e <strong>Node</strong>.
+    <strong>Desenvolvedor Front-End</strong> que cria soluções web utilizando <strong>HTML, CSS, JavaScript, Bootstrap, Python, MySQL</strong> e <strong>PHP</strong>.  
+    Atualmente estou estudando <strong>React</strong> e <strong>Node.js</strong>. Sou Técnico em Informática e, atualmente, aluno de Sistemas de Informação na PUC Campinas.
   </p>
 </div>
 
